@@ -25,6 +25,8 @@ Redes sociais <div align="center">
   </a>
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carol-Grauth/Carol-Grauth/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carol-Grauth/Carol-Grauth/output/pacman-contribution-graph.svg">
