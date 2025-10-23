@@ -22,7 +22,7 @@ Redes sociais <div align="center">
   <a href="http://www.instagram.com/carol.grauth" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://youtube.com/@carol.g" target="_blank">
+  <a href="https://youtube.com/@carol.g.s8549" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
