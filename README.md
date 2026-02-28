@@ -16,7 +16,7 @@ Estou querendo aprender a programar por diversão e aprendizado , comecei com HT
   <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 </p>
 Redes sociais <div align="center">
-  <a href="https://www.linkedin.com/in/caroline-gs-1b90a3350/" target="_blank">
+  <a href="https://www.linkedin.com/in/carol-grauth-1b90a3350/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/MoonNaman" target="_blank">
